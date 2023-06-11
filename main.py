@@ -4,12 +4,12 @@ import requests
 url = "https://joke110.p.rapidapi.com/random_joke"
 
 headers = {
-	"X-RapidAPI-Key": "",
+	"X-RapidAPI-Key": "15a2a9dc5bmsh020a3872b83c185p10621ejsnd08f0392c827",
 	"X-RapidAPI-Host": "joke110.p.rapidapi.com"
 }
 
 
-apiKey = ""
+apiKey = "6029344993:AAHNX0SaZ-KbL7ssrbNVdBpIIaygYuGGE1k"
 
 def start(update, context):
     msg = """
